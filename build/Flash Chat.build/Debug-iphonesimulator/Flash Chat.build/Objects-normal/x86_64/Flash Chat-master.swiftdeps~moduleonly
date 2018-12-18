@@ -1,0 +1,11 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "f0ba7c81bfaedd8d52f6fc6eda45bd93"
+build_time: [1545135314, 69747000]
+inputs:
+  "/Users/sriramprasad/Dev/rough/Flash-Chat-master/Flash Chat/WelcomeViewController.swift": [1512528316, 0]
+  "/Users/sriramprasad/Dev/rough/Flash-Chat-master/Flash Chat/Message.swift": [1545114303, 0]
+  "/Users/sriramprasad/Dev/rough/Flash-Chat-master/Flash Chat/CustomMessageCell.swift": [1512528316, 0]
+  "/Users/sriramprasad/Dev/rough/Flash-Chat-master/Flash Chat/RegisterViewController.swift": [1545135282, 0]
+  "/Users/sriramprasad/Dev/rough/Flash-Chat-master/Flash Chat/LogInViewController.swift": [1545135282, 0]
+  "/Users/sriramprasad/Dev/rough/Flash-Chat-master/Flash Chat/AppDelegate.swift": [1545135282, 0]
+  "/Users/sriramprasad/Dev/rough/Flash-Chat-master/Flash Chat/ChatViewController.swift": [1545135282, 0]
